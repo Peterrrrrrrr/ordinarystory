@@ -9,7 +9,7 @@
       </ul>
       <div class="link">
         <p>
-          <a href="https://github.com/Peterrrrrrrr/ordinarystory/tree/dev?files=1">@作业本</a>
+          <a href="https://github.com/Peterrrrrrrr/ordinarystory/tree/dev">@作业本</a>
         </p>
       </div>
     </div>
